@@ -1,0 +1,6 @@
+streamlit
+pandas
+bcrypt==4.1.2
+qrcode
+Pillow
+pyzbar
